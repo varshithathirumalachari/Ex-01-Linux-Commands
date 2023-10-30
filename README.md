@@ -132,7 +132,7 @@ The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
 
-![image](https://github.com/varshithathirumalachari/Ex-01-Linux-Commands/assets/131793193/31cd97e8-01d9-4d70-9573-bd3a8a8a8889)
+![image](https://github.com/varshithathirumalachari/Ex-01-Linux-Commands/assets/131793193/572d0a55-5a4f-445f-ba0c-b298880d35a2)
 
 ### 15)	grep Command
 
@@ -140,7 +140,8 @@ The grep is the most powerful and used filter in a Linux system. The 'grep' stan
 
 Syntax: command | grep <search word>
 
-![image](https://github.com/varshithathirumalachari/Ex-01-Linux-Commands/assets/131793193/572d0a55-5a4f-445f-ba0c-b298880d35a2)
+![image](https://github.com/varshithathirumalachari/Ex-01-Linux-Commands/assets/131793193/31cd97e8-01d9-4d70-9573-bd3a8a8a8889)
+
 
 
 ### 16)	tr Command
